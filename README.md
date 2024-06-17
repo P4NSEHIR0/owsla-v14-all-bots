@@ -5,7 +5,7 @@ merhaba arkadaşlar. Owslanın paylaşmış olduğu v12 public/ekip botlarının
 # NOT 
 Botta hata olabilir hiç çalıştırmadım. ancak kodlarda bir sorun yok. bu altyapıda kimseye destek vermemekteyim. Umarım sizlere güzel bir proje çıkarabilmişimdir :)
 
-Projedeki Dostlar `cartelfx` `DarkDays` `acerhizmq`
+Projedeki Dostlar `cartelfx` `DarkDays` `acerhizmq` `Jawex`
 
 # :)
 
