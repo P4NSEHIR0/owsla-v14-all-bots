@@ -1,6 +1,6 @@
 # Owsla-v14-All-Bots
 
-merhaba arkadaşlar. Owslanın paylaşmış olduğu v12 botlarının hepsinin v14 e çevirilmiş halidir. içerisinde bulunan bazı hatalar fixlenmiştir gerisi bilgili arkadaşlarımıza kalmışdır kendimiz bilerek dokunmadık. kodların hepsi v14 halindedir. umarım işinize yarar. Yardımcı oldukları için `DarkDays`, `cartelfx`, `acerhizmq` arakadaşlarımıza teşekkür ederim !
+merhaba arkadaşlar. Owslanın paylaşmış olduğu v12 public/ekip botlarının hepsinin v14 e çevirilmiş halidir. içerisinde bulunan bazı hatalar fixlenmiştir gerisi bilgili arkadaşlarımıza kalmışdır kendimiz bilerek dokunmadık. kodların hepsi v14 halindedir. umarım işinize yarar. Yardımcı oldukları için `DarkDays`, `cartelfx`, `acerhizmq` arakadaşlarımıza teşekkür ederim !
 
 # NOT 
 Botta hata olabilir hiç çalıştırmadım. ancak kodlarda bir sorun yok. bu altyapıda kimseye destek vermemekteyim. Umarım sizlere güzel bir proje çıkarabilmişimdir :)
