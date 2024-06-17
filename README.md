@@ -9,4 +9,4 @@ Projedeki Dostlar `cartelfx` `DarkDays` `acerhizmq`
 
 # :)
 
-Basması 3 saniyenizi almaz bide star atarsanız sevinirim, güzel altyapılar yakkında ! bayramınız kutlu olsun.
+Basması 3 saniyenizi almaz bide star atarsanız sevinirim, güzel altyapılar yakkında ! bayramınız kutlu olsun. Vatanın sevgili halkı ekibi selamlarını iletmekte ..
